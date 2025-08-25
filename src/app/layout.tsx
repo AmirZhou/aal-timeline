@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Access Alberta Legal Timeline",
-  description: "Legal timeline tracking and visualization for Alberta legal services",
+  title: "AAL Timeline",
+  description: "Development timeline tracker for Access Alberta Legal project",
 };
 
 export default function RootLayout({

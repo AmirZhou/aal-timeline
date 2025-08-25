@@ -30,7 +30,7 @@ export default function Home() {
         <h1 className={`text-[6rem] font-black tracking-[-0.03em] py-8 mb-16 text-left ${
           theme === "dark" ? "text-white" : "text-[#1e293b]"
         }`}>
-          Access Alberta Legal
+          AAL Timeline
         </h1>
         <Timeline theme={theme} convexUrl={process.env.NEXT_PUBLIC_CONVEX_URL} />
       </div>
